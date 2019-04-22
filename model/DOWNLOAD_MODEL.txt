@@ -1,1 +1,2 @@
-https://drive.google.com/open?id=1mJe-KThNdP3AayfB8Ri2uZzphdQtelOW
+Il n'est pas possible d'uploader des fichiers de plus de 100 Mo sur Github.
+Le modèle pèse ~530 Mo : https://drive.google.com/open?id=1mJe-KThNdP3AayfB8Ri2uZzphdQtelOW
